@@ -19,12 +19,12 @@ Check out my work on GitHub – feel free to explore, reuse, or build on it.
 
 ---
 
-### 📫 Contact me
-You can find me on  
-🔗 LinkedIn: https://www.linkedin.com/in/maenababneh
-🌐 Website: [coming soon... stay tuned 😉]
-📩 Email: maenababneh@outlook.com
+### 📫 Contact me  
+You can find me on:
 
+🔗 LinkedIn: (https://www.linkedin.com/in/maenababneh)  
+🌐 Website: *coming soon... stay tuned 😉*  
+📩 Email: maenababneh@outlook.com
 
 ---
 
