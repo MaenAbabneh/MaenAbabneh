@@ -1,32 +1,26 @@
-# 👋 Hi, I'm Maen Ababneh  
+# 👋 Hi, I'm Maen Ababneh
 
-💻 **Aspiring Web Developer | Computer Science **  
+I'm a **Freelance Web Developer** from Jordan 🇯🇴  
+I build responsive websites with **React**, powerful APIs with **Node.js**, and love sharing what I learn!
 
-## 👀 My Interests  
-- 💡 Artificial Intelligence & Machine Learning  
-- 🌍 Web Development with **JavaScript, React, Next.js, Node.js**  
-- 📱 Android App Development using **Android Studio**  
-- 🎥 Creating Tech & Programming Content  
+---
 
-## 🌱 Currently Learning  
-- **Next.js, Node.js, React**  
-- Improving my skills in **JavaScript** & **Tailwind CSS**  
+### 💻 What I do:
+- ⚡ Build fast and clean web apps using React & Next.js  
+- 🔌 Create smart backend APIs with Node.js & Express  
+- 🧠 Explore AI tools and how to use them in real projects  
+- 🤝 Share my code to help others learn and grow
 
-## 💞️ Looking to Collaborate On  
-- **Web Development Projects**  
-- **Building Professional Websites**  
-- **AI & Machine Learning Projects**  
+---
 
-## 📫 How to Reach Me  
-- 📧 **[maenababneh@outlook.com]**  
-- 🔗 **[https://www.linkedin.com/in/maen-ababneh-6bb09334b/]**  
-- 🌐 **[soon]**  
+### 🚀 Projects
+Check out my work on [GitHub](https://github.com/MaenAbabneh) — feel free to explore, reuse, or build on it!  
+الكود مش لازم يظل مخبّى، شاركه، وتعلم منه، وخلينا نكبر سوا 🙌
 
-## ⚡ Fun Fact  
-🎮 I love **PlayStation** games and **cats** 🐱!  
+---
 
+### 📫 Contact me
+You can find me on  
+[LinkedIn](https://www.linkedin.com/in/maenababneh)  
+📩 Email: maenababneh@outlook.com
 
-<!---
-MaenAbabneh/MaenAbabneh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
