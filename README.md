@@ -14,13 +14,16 @@ I build responsive websites with **React**, powerful APIs with **Node.js**, and 
 ---
 
 ### 🚀 Projects
-Check out my work on [GitHub](https://github.com/MaenAbabneh) — feel free to explore, reuse, or build on it!  
+Check out my work on GitHub – feel free to explore, reuse, or build on it.
 الكود مش لازم يظل مخبّى، شاركه، وتعلم منه، وخلينا نكبر سوا 🙌
 
 ---
 
 ### 📫 Contact me
 You can find me on  
-[LinkedIn](https://www.linkedin.com/in/maenababneh)  
+🔗 LinkedIn: https://www.linkedin.com/in/maenababneh
+🌐 Website: [coming soon... stay tuned 😉]
 📩 Email: maenababneh@outlook.com
+
+
 
