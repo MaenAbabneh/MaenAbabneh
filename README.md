@@ -26,4 +26,21 @@ You can find me on
 📩 Email: maenababneh@outlook.com
 
 
+---
+
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaenAbabneh&layout=compact&theme=radical)
+
+
+---
+
+## 🧩 Fun Fact
+
+I probably write better code after coffee... ☕💻  
+(and yes, I break things just to fix them again 😅)
+
+
+
 
