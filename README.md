@@ -27,8 +27,10 @@ I recently built a high-fidelity clone of the GTA VI website to push the limits 
 ### 📫 Let's Connect
 I'm open to freelance projects and technical collaborations.
 
-🔗 **LinkedIn:** [linkedin.com/in/maenababneh](https://www.linkedin.com/in/maenababneh)
-📩 **Email:** maenababneh@outlook.com
+🔗 **LinkedIn:** [linkedin.com/in/maenababneh](https://www.linkedin.com/in/maenababneh).
+
+📩 **Email:** maenababneh@outlook.com.
+
 🌐 **Portfolio:** *Under Construction (Cooking something spicy 🔥)*
 
 ---
