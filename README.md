@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maen Ababneh
 
-**Frontend Engineer** from Jordan 🇯🇴 | Obsessed with Performance & Interactive Design.
+**Full Stack Engineer** from Jordan 🇯🇴 | Obsessed with Performance & Interactive Design.
 
 I bridge the gap between **Engineering** and **Creativity**. I don't just build websites; I engineer immersive web experiences using the modern stack.
 
